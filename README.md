@@ -1,36 +1,46 @@
-# deep-learning-challenge
+# Alphabet Soup Predictor Model
 
-Overview
+## Overview
 
+[Provide an overview of the project and the purpose of the predictor model.]
 
+## Data Preprocessing
 
-Data Preprocessing
+### Targets
+[Description of the target variable(s)]
 
-Targets
+### Features
+[Description of the features used in the model]
 
-Features
+### Dropped Features
+[List of features that were dropped during preprocessing]
 
-Dropped Features
+## Compiling, Training, and Evaluating the Model
 
+### Model 1:
+![Model 1 Accuracy Plot](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Plots/model1_plot.png)
 
-Compiling, Training, and Evaluating the Model
+[Description or analysis of Model 1]
 
-Model 1:
+### Model 2:
+![Model 2 Accuracy Plot](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Plots/model2_plot.png)
 
-![Model 1 Accuracy Plot]("Visuals/Plots/model1_plot.png")
+[Description or analysis of Model 2]
 
-Model 2:
+### Model 3:
+![Model 3 Accuracy Plot](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Plots/model3_plot.png)
 
-![Model 2 Accuracy Plot]("Visuals/Plots/model2_plot.png")
+[Description or analysis of Model 3]
 
-Model 3:
+### Model 4:
+![Model 4 Accuracy Plot](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Plots/model4_plot.png)
 
-![Model 3 Accuracy Plot]("Visuals/Plots/model3_plot.png")
+[Description or analysis of Model 4]
 
-Model 4:
+### Model 5:
+![Model 5 Accuracy Plot](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Plots/model5_plot.png)
 
-![Model 4 Accuracy Plot]("Visuals/Plots/model4_plot.png")
+[Description or analysis of Model 5]
 
-Model 5:
-
-![Model 5 Accuracy Plot]("Visuals/Plots/model5_plot.png")
+## Conclusion
+[Summary of findings and conclusion]
