@@ -18,27 +18,27 @@
 ## Compiling, Training, and Evaluating the Model
 
 ### Model 1:
-![Model 1 Accuracy Plot](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Plots/model1_plot.png)
+![Model 1 Accuracy Plot](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Plots/model1_plot.png) ![Model 1 Evaluation](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Evaluations/model1_evaluation.PNG)
 
 [Description or analysis of Model 1]
 
 ### Model 2:
-![Model 2 Accuracy Plot](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Plots/model2_plot.png)
+![Model 2 Accuracy Plot](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Plots/model2_plot.png) ![Model 2 Evaluation](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Evaluations/model2_evaluation.PNG)
 
 [Description or analysis of Model 2]
 
 ### Model 3:
-![Model 3 Accuracy Plot](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Plots/model3_plot.png)
+![Model 3 Accuracy Plot](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Plots/model3_plot.png) ![Model 3 Evaluation](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Evaluations/model3_evaluation.PNG)
 
 [Description or analysis of Model 3]
 
 ### Model 4:
-![Model 4 Accuracy Plot](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Plots/model4_plot.png)
+![Model 4 Accuracy Plot](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Plots/model4_plot.png) ![Model 4 Evaluation](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Evaluations/model4_evaluation.PNG)
 
 [Description or analysis of Model 4]
 
 ### Model 5:
-![Model 5 Accuracy Plot](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Plots/model5_plot.png)
+![Model 5 Accuracy Plot](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Plots/model5_plot.png) ![Model 5 Evaluation](https://github.com/AAlbers341/deep-learning-challenge/blob/main/Visuals/Evaluations/model5_evaluation.PNG) 
 
 [Description or analysis of Model 5]
 
