@@ -16,6 +16,11 @@ For this model, a nonprofit foundation called Alphabet Soup needs a tool to help
 
 ## Data Preprocessing
 
+In the first preprocessing step, we binned the 'APPLICATION_TYPE' and 'CLASSIFICATION' features. Binning these features was necessary to address the issue of high cardinality, where there were numerous unique values for each feature. By binning these features, we reduced the number of unique values, which helped to simplify the model complexity and prevent overfitting.
+
+Another preprocessing step we performed involved converting categorical data to numeric format using the pd.get_dummies function. This transformation was necessary because most machine learning algorithms require numeric input data. By converting categorical variables into a set of binary variables (dummy variables), we preserved the categorical information while making it compatible with the numerical requirements of the model.
+
+
 ### Targets
 
 Target: `IS_SUCCESSFUL`
