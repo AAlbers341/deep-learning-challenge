@@ -2,18 +2,27 @@
 
 ## Overview
 
-[Provide an overview of the project and the purpose of the predictor model.]
+For this model, a nonprofit foundation called Alphabet Soup needs a tool to help select applicants for funding with the best chance of success in their ventures. This model uses machine learning and neural network technique to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup. 
+
+## Dependencies
+1.) sklearn.model_selection
+  a.) train_test_split
+2.) sklearn.preprocessing
+  b.) StandardScaler
+3.) Pandas
+4.) tensorflow
+5.) matplotlib
 
 ## Data Preprocessing
 
 ### Targets
-[Description of the target variable(s)]
+Target: ['IS_SUCCESSFUL']
 
 ### Features
-[Description of the features used in the model]
+Features: ['APPLICATION_TYPE', 'AFFILIATION', 'CLASSIFICATION', 'USE_CASE','ORGANIZATION', 'STATUS', 'INCOME_AMT', 'SPECIAL_CONSIDERATIONS','ASK_AMT']
 
 ### Dropped Features
-[List of features that were dropped during preprocessing]
+Dropped Features: ['EIN', 'NAME']
 
 ## Compiling, Training, and Evaluating the Model
 
